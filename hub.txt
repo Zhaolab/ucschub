@@ -1,0 +1,5 @@
+hub cel_gad1_BW1943
+shortLabel gad1_temp_sensetive
+longLabel "A Highly Conserved GAD-1 Is Required for Pre-mRNA Splicing and Transcription."
+genomesFile genomes.txt
+email runsheng.lee@gmail.com

@@ -1,0 +1,20 @@
+track  16C
+bigDataUrl track/con.bw
+shortLabel bigWig 16C
+longLabel Mix-stage embryo in 16C BW1943 
+type bigWig
+visibility full 
+
+track  25C
+bigDataUrl track/exp.bw
+shortLabel bigWig 25C
+longLabel Mix-stage embryo in 25C BW1943
+type bigWig
+visibility full 
+
+track N2 
+bigDataUrl track/n2.bw
+shortLabel bigWig N2
+longLabel Mix-stage embryo in wildtype N2 
+type bigWig
+visibility full 
